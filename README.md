@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# StudyNotion Edtech Project
+# SmartStudy Edtech Web APP
 =======
-# StudyNotion-EdTech
+# SmartStudy Edtech Web APP
 Full Stack EdTech platform using MERN stack
->>>>>>> 751135cacc979c8ffdbb7c75b78e66c7dbfbc596
+
 
 -Full-Stack MERN Web
 -Tailwind Used
@@ -13,10 +13,10 @@ To run this web on your computer, follow these steps:
 
 Clone the repository to your local machine.
 
-git clone https://github.com/AyushR97j/StudyNotion-EdTech.git
+git clone https://github.com/Mihir2808/SmartStudyProject.git
 Install the required packages. 
 
-cd StudyNotion-EdTech
+cd SmartStudy Project
 npm install
 Start the development server:
 
