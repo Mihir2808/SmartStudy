@@ -13,10 +13,10 @@ To run this web on your computer, follow these steps:
 
 Clone the repository to your local machine.
 
-git clone https://github.com/Mihir2808/SmartStudyProject.git
+git clone [https://github.com/Mihir2808/SmartStudyProject.git](https://github.com/Mihir2808/SmartStudy.git)
 Install the required packages. 
 
-cd SmartStudy Project
+cd SmartStudy
 npm install
 Start the development server:
 
